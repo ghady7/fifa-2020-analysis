@@ -1,0 +1,10 @@
+Target,Metric
+wage_eur — Linear,R²=0.696  MAE=4039.3
+wage_eur — RF,R²=0.762  MAE=3252.2
+overall — Linear,R²=0.936  MAE=1.3
+overall — RF,R²=0.997  MAE=0.2
+rep_binary — Logistic,Accuracy=0.823
+rep_binary — RF,Accuracy=0.921
+overall_3class — RF,Accuracy=0.940
+overall_binary — Logistic,Accuracy=0.953
+overall_binary — RF,Accuracy=0.971
